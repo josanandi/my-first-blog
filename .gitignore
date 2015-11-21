@@ -3,7 +3,7 @@ __pycache__
 myvenv
 db.sqlite3
 virtualenv-12.0.7
-.ipynb_checkpoints
+.ipynb_checkpoints/	
 Untitled.ipynb
 /static
 .DS_Store
